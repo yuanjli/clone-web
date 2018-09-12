@@ -1,0 +1,25 @@
+.restaurant-card {
+	width: 30%;
+	min-width: 240px;
+	margin: 1%;
+	border: 1px solid rgba(105, 105, 105, 0.2);
+	background: white;
+	border-radius: 0 0 2px 2px;
+	box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14);
+}
+
+.restaurant-card-img {
+	overflow: hidden;
+	max-width: 300px;
+	max-height: 300px;
+
+}
+
+
+.restaurant-card-content {
+	padding: 16px;
+}
+
+.restaurant-name {
+	margin: 0;
+}
